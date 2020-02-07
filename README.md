@@ -1,10 +1,10 @@
------BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User-ID:	<kriattiffer@gmail.com>
-Comment: Created:	07.02.2020 07:29
-Comment: Expires:	07.02.2022 12:00
-Comment: Type:	2048-bit RSA (secret key available)
-Comment: Usage:	Signing, Encryption, Certifying User-IDs
-Comment: Fingerprint:	2DAB93858F7C2BBDC5200E11F30CDCFBB21D1584
+-----BEGIN PGP PUBLIC KEY BLOCK-----\
+Comment: User-ID:	<kriattiffer@gmail.com>\
+Comment: Created:	07.02.2020 07:29\
+Comment: Expires:	07.02.2022 12:00\
+Comment: Type:	2048-bit RSA (secret key available)\
+Comment: Usage:	Signing, Encryption, Certifying User-IDs\
+Comment: Fingerprint:	2DAB93858F7C2BBDC5200E11F30CDCFBB21D1584\
 
 
 mQENBF4855oBCADF/f3nZvE4eLc/OXKp9wkWjORo8JSSo9irZt9tP8vClUrjvpEF
@@ -32,6 +32,6 @@ yCt+QbgGou5zS3jr5798cHhWWawnz0bY6I2LG8RgyvOZCzo0YSfz2hLStVjJ5uWI
 890anW0C8pUU9Dd8gmw4V+YaQ7mzA8YEbpoBDuhnGXJdVyWe22a1Rr5+Ff7FksXc
 dqWepP41MWjMKqBTACvJWrewLETkJwnSFxg1m+6cFOJ+8GcfE4ZIOGQ2rHp4GJ3G
 DuBUe+X0fknx8kKmOt40HOHyyrRFGIdUNYX4MrzSJSyHZusJ+BTh+NodX6YUuOsH
-3myIc8oTevqpKSAQ4tuvaUlZeih5dRqE2nPG6D8=
-=gK0f
+3myIc8oTevqpKSAQ4tuvaUlZeih5dRqE2nPG6D8=\
+=gK0f\
 -----END PGP PUBLIC KEY BLOCK-----
