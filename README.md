@@ -1,18 +1,5 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-Comment: User-ID:	<kriattiffer@gmail.com>
-
-Comment: Created:	07.02.2020 07:29
-
-Comment: Expires:	07.02.2022 12:00
-
-Comment: Type:	2048-bit RSA (secret key available)
-
-Comment: Usage:	Signing, Encryption, Certifying User-IDs
-
-Comment: Fingerprint:	2DAB93858F7C2BBDC5200E11F30CDCFBB21D1584
-
-
 mQENBF4855oBCADF/f3nZvE4eLc/OXKp9wkWjORo8JSSo9irZt9tP8vClUrjvpEF
 IdO2QwPMWIwJeMDOiTeVGYwYRHQWZO04RBZQb2J6Vf8QZNs0poiKKR3mS4PaTX7D
 lR1ofsZFH8LVEV1lsD/aFTqHHLXlsTW53Vw4eRMRNdPy4gfmcG6Aa2qUyAbtAT9j
